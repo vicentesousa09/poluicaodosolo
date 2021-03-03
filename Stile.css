@@ -1,0 +1,9 @@
+div{
+	background:url("Images/pollution.jpg");
+	background-size:cover;
+    height:900px;
+    width:100%;	
+}
+h1{
+	margin:0;
+}
